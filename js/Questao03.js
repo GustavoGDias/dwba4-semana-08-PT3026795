@@ -1,18 +1,18 @@
 // Dados dos alunos
 let aluno1 = {
-    nome: "João da Silva",
+    nome: "Fernado Gonçalves",
     nota1: 7,
-    nota2: 8.5,
+    nota2: 9,
   };
   
   let aluno2 = {
-    nome: "Maria Oliveira",
+    nome: "Julio Nataniel",
     nota1: 6,
     nota2: 9,
   };
   
   let aluno3 = {
-    nome: "Carlos Souza",
+    nome: "Julia Rodrigues",
     nota1: 8,
     nota2: 7.5,
   };

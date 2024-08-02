@@ -19,11 +19,11 @@ class Aluno {
   
   //Array com 5 alunos
   let alunos = [
-    new Aluno("Flavia", "Saraiva", 5, 6),
-    new Aluno("Rebeca", "Andrade", 8, 9),
-    new Aluno("Hugo", "Calderano", 7, 8.5),
+    new Aluno("Elias", "Prestes", 5, 6),
+    new Aluno("Neymar", "Junior", 4, 5),
+    new Aluno("Davi", "Felipe", 9, 8.5),
     new Aluno("Ana", "Carolina", 6, 9),
-    new Aluno("Gabriel", "Medina", 4.5, 7.5)
+    new Aluno("Hugo", "Souza", 4.5, 7.5)
   ];
   
   function exibirInformacoes(alunos) {
